@@ -15,8 +15,8 @@
  
   "maintenance": {
     "title": "MAINTENANCE",
-    "mode": false,
+    "mode": true,
     "message": "Server maintenance, holup man 🖕🏽🥸",
-    "estimated": "3 day"
+    "estimated": "30 day"
   }
 }
