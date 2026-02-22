@@ -24,7 +24,7 @@
   
   "maintenance": {
     "title": "MAINTENANCE",
-    "mode": false,
+    "mode": true,
     "message": "Server maintenance, tunggu 15 menit ya",
     "estimated": "15 menit"
   }
