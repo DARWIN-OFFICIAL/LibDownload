@@ -1,6 +1,6 @@
 {
   "library": {
-    "title": "NEW UPDATE HAS AVAILABLE",
+    "title": "ALECTO CHEAT",
     "telegram": "https://t.me/darwinowner",
     "version": "1.2 - 64 bit"
   },
@@ -15,7 +15,7 @@
  
   "maintenance": {
     "title": "MAINTENANCE",
-    "mode": true,
+    "mode": false,
     "message": "Server maintenance, holup man 🖕🏽🥸",
     "estimated": "3 day"
   }
