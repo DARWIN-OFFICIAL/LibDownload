@@ -1,31 +1,21 @@
 {
   "library": {
     "title": "NEW UPDATE HAS AVAILABLE",
-    "telegrambtn": "JOIN CHANNEL",
     "telegram": "https://t.me/darwinowner",
     "version": "1.2 - 64 bit"
   },
   
   "update": {
     "changelog": [
-      "• Perbaikan bug crash",
-      "• Optimasi memory 30%",
-      "• Fitur anti-ban",
-      "• Support Android 14"
-    ],
-    "force_update": true
+      "• Fix crash & Fix your fucking face",
+      "• Support Android 15"
+    ]
   },
-  
-  "colors": {
-    "primary": "#2196F3",
-    "accent": "#03A9F4",
-    "background": "#1E1E1E"
-  },
-  
+ 
   "maintenance": {
     "title": "MAINTENANCE",
-    "mode": true,
-    "message": "Server maintenance, tunggu 15 menit ya",
+    "mode": false,
+    "message": "Server maintenance, holup man 🖕🏽🥸",
     "estimated": "15 menit"
   }
 }
