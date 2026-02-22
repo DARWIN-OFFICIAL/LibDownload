@@ -1,1 +1,29 @@
-{}
+{
+  "library": {
+    "version": "1.2 - 64 bit"
+  },
+  
+  "update": {
+    "changelog": [
+      "• Perbaikan bug crash",
+      "• Optimasi memory 30%",
+      "• Fitur anti-ban",
+      "• Support Android 14"
+    ],
+    "force_update": false
+  },
+  
+  "colors": {
+    "primary": "#2196F3",
+    "accent": "#03A9F4",
+    "background": "#1E1E1E"
+  },
+  
+  "maintenance": {
+    "title": "JOIN TELEGRAM",
+    "mode": true,
+    "telegram": "https://t.me/darwinowner",
+    "message": "Server maintenance, tunggu 15 menit ya",
+    "estimated": "15 menit"
+  }
+}
