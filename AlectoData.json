@@ -2,13 +2,13 @@
   "library": {
     "title": "ALECTO CHEAT",
     "telegram": "https://t.me/darwinowner",
-    "version": "4.2 - 64 bit"
+    "version": "4.3 - 64 bit"
   },
   
   "update": {
     "changelog": [
-      "you are in the latest version",
-      "you can skip the update"
+      "Lobby skin has been updated, please do update!",
+      "You can skip the update after updating."
     ]
   },
  
