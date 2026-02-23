@@ -1,6 +1,6 @@
 {
   "library": {
-    "titlepageone": "ALECTO CHEAT PUBGM",
+    "titlepageone": "ALECTO CHEAT",
     "titlepagetwo": "MESSAGE OWNER",
     "pagetwotext": [
       "We sell various cool game sources with examples like this mod",
@@ -10,10 +10,10 @@
     "telegram": "https://t.me/darwinowner",
     "otherurl": "https://t.me/dalwinofficial",
     "version": "PUBG Mobile 4.2 - 64 bit",
-    "buttonone": "JOIN HERE",
+    "buttonone": "JOIN TELEGRAM",
     "buttontwo": "CONTACT ME",
-    "buttonthree": "UPDATE NOW",
-    "buttonfor": "LATER",
+    "buttonthree": "UPDATE",
+    "buttonfor": "SKIP",
     "changelog": [
       "Lobby skin has been updated, please do update!",
       "You can skip the update after doing the update once",
