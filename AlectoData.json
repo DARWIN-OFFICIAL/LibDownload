@@ -16,7 +16,7 @@
  
   "maintenance": {
     "title": "MAINTENANCE",
-    "mode": true,
+    "mode": false,
     "message": "Please be patient for the next update information.",
     "estimated": "3 day"
   }
