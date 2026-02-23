@@ -1,0 +1,27 @@
+{
+  "library": {
+    "titlepageone": "ALECTO CHEAT",
+    "titlepagetwo": "MORE ABOUT",
+    "pagetwotext": [
+      "Hallo, selamat menggunakan Alecto Cheat.",
+      "Version: 4.2 - 64 bit",
+      "Fitur: AIMBOT, WALLHACK, ESP, DLL",
+      "Gunakan dengan bijak dan resiko ditanggung sendiri."
+    ],
+    "telegram": "https://t.me/darwinowner",
+    "otherurl": "https://t.me/dalwinofficial",
+    "version": "PUBG Mobile 4.2 - 64 bit",
+    "changelog": [
+      "Lobby skin has been updated, please do update!",
+      "You can skip the update after updating.",
+      "Fixed bugs on aimbot feature",
+      "Added new ESP colors"
+    ]
+  },
+  "maintenance": {
+    "title": "MAINTENANCE",
+    "mode": false,
+    "message": "Please be patient for the next update information\nWait for updated information on the channel below.",
+    "estimated": "3 day"
+  }
+}
