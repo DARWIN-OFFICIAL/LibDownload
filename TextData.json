@@ -1,7 +1,7 @@
 {
   "library": {
     "titlepageone": "ALECTO CHEAT",
-    "titlepagetwo": "ABOUT US",
+    "titlepagetwo": "MESSAGE OWNER",
     "pagetwotext": [
       "We sell various cool game sources with examples like this mod",
       "contact the owner below if you want to buy source code for",
@@ -12,9 +12,9 @@
     "version": "PUBG Mobile 4.2 - 64 bit",
     "changelog": [
       "Lobby skin has been updated, please do update!",
-      "You can skip the update after updating.",
-      "Fixed bugs on aimbot feature",
-      "Added new ESP colors"
+      "You can skip the update after doing the update once",
+      "Fixed crash skin in match",
+      "Updated skin component"
     ]
   },
   "maintenance": {
