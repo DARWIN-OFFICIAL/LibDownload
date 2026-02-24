@@ -1,11 +1,10 @@
 {
   "library": {
     "titlepageone": "ALECTO CHEAT",
-    "titlepagetwo": "ABOUT US",
+    "titlepagetwo": "MOD SELECTION",
     "pagetwotext": [
-      "We sell various cool game sources with examples like this mods",
-      "contact the owner below if you want to buy source code for",
-      "PUBGM, MLBB, CODM, BLOOD STRIKE and many more"
+      "Choose your preferred mod below",
+      "Each mod has different features and compatibility"
     ],
     "telegram": "https://t.me/darwinowner",
     "otherurl": "https://t.me/dalwinofficial",
@@ -14,11 +13,92 @@
     "buttontwo": "CONTACT ME",
     "buttonthree": "UPDATE",
     "buttonfor": "SKIP",
+    "buttonclose": "CLOSE",
     "changelog": [
       "Lobby skin has been updated, please do update!",
       "You can skip the update after doing the update once",
       "Fixed crash skin in match",
       "Updated skin component"
+    ],
+    "mods": [
+      {
+        "id": 1,
+        "name": "ALECTO PRO",
+        "description": "Professional mod with advanced features",
+        "version": "v4.2.1",
+        "size": "15.2 MB",
+        "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/mods/alecto_pro.so",
+        "features": [
+          "Aimbot Pro",
+          "Wallhack HD",
+          "No Recoil",
+          "Magic Bullet"
+        ],
+        "compatible_games": ["PUBGM", "BGMI"],
+        "is_free": false
+      },
+      {
+        "id": 2,
+        "name": "ALECTO LITE",
+        "description": "Lightweight mod for stable performance",
+        "version": "v4.2.0",
+        "size": "8.7 MB",
+        "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/mods/alecto_lite.so",
+        "features": [
+          "Basic Aimbot",
+          "Wallhack Lite",
+          "Anti Ban"
+        ],
+        "compatible_games": ["PUBGM", "BGMI", "CODM"],
+        "is_free": true
+      },
+      {
+        "id": 3,
+        "name": "ALECTO ESP",
+        "description": "Enhanced ESP features for competitive play",
+        "version": "v4.1.9",
+        "size": "12.3 MB",
+        "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/mods/alecto_esp.so",
+        "features": [
+          "Player ESP",
+          "Item ESP",
+          "Vehicle ESP",
+          "Distance Tracker"
+        ],
+        "compatible_games": ["PUBGM", "CODM", "BLOOD STRIKE"],
+        "is_free": false
+      },
+      {
+        "id": 4,
+        "name": "ALECTO FREE",
+        "description": "Free version with basic features",
+        "version": "v4.0.0",
+        "size": "6.5 MB",
+        "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/mods/alecto_free.so",
+        "features": [
+          "Simple Aimbot",
+          "Basic ESP",
+          "No Grass"
+        ],
+        "compatible_games": ["PUBGM", "MLBB"],
+        "is_free": true
+      },
+      {
+        "id": 5,
+        "name": "ALECTO MLBB",
+        "description": "Special mod for Mobile Legends",
+        "version": "v2.1.0",
+        "size": "10.1 MB",
+        "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/mods/alecto_mlbb.so",
+        "features": [
+          "Map Hack",
+          "Drone View",
+          "Skill No Cooldown",
+          "Auto Combo"
+        ],
+        "compatible_games": ["MLBB"],
+        "is_free": false
+      }
     ]
   },
   "maintenance": {
