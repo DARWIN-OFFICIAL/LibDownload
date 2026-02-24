@@ -24,8 +24,8 @@
       "status": "free",
       "key_required": true,
       "has_trial": true,
-      "trial_days": 3,
-      "demo_key": "PRO-ABCD-EFGH-IJKL"
+      "trial_days": 4,
+      "demo_key": "NATALIUS-PIG-GAY"
     },
     {
       "id": "lite",
@@ -41,8 +41,11 @@
         "Anti-Band Virgoun",
         "Campuran etanol"
       ],
-      "status": "free",
-      "key_required": false
+      "status": "trial",
+      "key_required": true,
+      "has_trial": true,
+      "trial_days": 6,
+      "demo_key": "NATALIUS-PIG-GAY"
     },
     {
       "id": "esp",
