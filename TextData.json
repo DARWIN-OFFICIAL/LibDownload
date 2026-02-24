@@ -1,237 +1,84 @@
 {
-  "library": {
-    "title": "ALECTO CHEAT",
-    "subtitle": "Premium Game Enhancement Mods",
-    "header_image": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/images/header.png",
-    "telegram_channel": "https://t.me/dalwinofficial",
-    "telegram_bot": "https://t.me/darwinowner_bot",
-    "version": "v4.2.0",
-    "buttons": {
-      "join_telegram": "JOIN TELEGRAM",
-      "contact_owner": "CONTACT OWNER",
-      "download": "DOWNLOAD MOD",
-      "get_key": "GET KEY",
-      "load": "LOAD MOD",
-      "copy_key": "COPY KEY",
-      "close": "CLOSE"
-    },
-    "mods": [
-      {
-        "id": 1,
-        "name": "🔰 ALECTO PRO",
-        "short_description": "Professional mod with maximum performance",
-        "full_description": "Complete package with all advanced features for competitive gaming. Includes aimbot, wallhack, and various enhancements optimized for professional players.",
-        "version": "v4.2.1",
-        "size": "15.2 MB",
-        "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/mods/alecto_pro.so",
-        "features": [
-          "🎯 Aimbot Pro (Adjustable FOV & Smoothing)",
-          "👁️ Wallhack HD (Full Player & Item ESP)",
-          "⚡ No Recoil (Configurable)",
-          "✨ Magic Bullet (Auto-targeting)",
-          "🛡️ Advanced Anti-Ban Protection"
-        ],
-        "compatible_games": ["PUBGM", "BGMI", "CODM"],
-        "status": "paid",
-        "price": "$15.99",
-        "key_required": true,
-        "telegram_contact": "https://t.me/darwinowner",
-        "screenshots": [
-          "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/screenshots/pro1.jpg",
-          "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/screenshots/pro2.jpg"
-        ],
-        "requires_key": true,
-        "has_free_trial": true,
-        "trial_days": 3
-      },
-      {
-        "id": 2,
-        "name": "⚡ ALECTO LITE",
-        "short_description": "Lightweight mod for stable performance",
-        "full_description": "Optimized for devices with lower specifications. Provides essential features without compromising performance and stability.",
-        "version": "v4.2.0",
-        "size": "8.7 MB",
-        "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/mods/alecto_lite.so",
-        "features": [
-          "🎯 Basic Aimbot",
-          "👁️ Wallhack Lite",
-          "🛡️ Anti-Ban System",
-          "⚡ Performance Optimized"
-        ],
-        "compatible_games": ["PUBGM", "BGMI", "CODM", "FREE FIRE"],
-        "status": "free",
-        "is_free": true,
-        "key_required": false,
-        "telegram_contact": "https://t.me/darwinowner",
-        "screenshots": [
-          "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/screenshots/lite1.jpg"
-        ],
-        "requires_key": false
-      },
-      {
-        "id": 3,
-        "name": "👁️ ALECTO ESP",
-        "short_description": "Advanced ESP & Wallhack",
-        "full_description": "Specialized mod focused on ESP features. See enemies, items, and vehicles through walls with customizable colors and distance tracking.",
-        "version": "v4.1.9",
-        "size": "12.3 MB",
-        "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/mods/alecto_esp.so",
-        "features": [
-          "👤 Player ESP (Distance, Health, Name)",
-          "📦 Item ESP (Weapons, Armor, Loot)",
-          "🚗 Vehicle ESP",
-          "📏 Distance Tracker",
-          "🎨 Custom Colors"
-        ],
-        "compatible_games": ["PUBGM", "CODM", "BLOOD STRIKE"],
-        "status": "paid",
-        "price": "$12.99",
-        "key_required": true,
-        "telegram_contact": "https://t.me/darwinowner",
-        "key": "ESP-XXXX-XXXX-XXXX",
-        "screenshots": [
-          "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/screenshots/esp1.jpg"
-        ],
-        "requires_key": true
-      },
-      {
-        "id": 4,
-        "name": "🎁 ALECTO FREE",
-        "short_description": "Free version for everyone",
-        "full_description": "Basic features available for free. Perfect for trying out our mod system before upgrading to premium versions.",
-        "version": "v4.0.0",
-        "size": "6.5 MB",
-        "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/mods/alecto_free.so",
-        "features": [
-          "🎯 Simple Aimbot",
-          "👁️ Basic ESP",
-          "🌿 No Grass"
-        ],
-        "compatible_games": ["PUBGM", "MLBB"],
-        "status": "free",
-        "is_free": true,
-        "key_required": false,
-        "telegram_contact": "https://t.me/darwinowner",
-        "requires_key": false
-      },
-      {
-        "id": 5,
-        "name": "🎮 ALECTO MLBB",
-        "short_description": "Mobile Legends Special Mod",
-        "full_description": "Specifically designed for Mobile Legends: Bang Bang. Features include map hack, drone view, and various in-game enhancements.",
-        "version": "v2.1.0",
-        "size": "10.1 MB",
-        "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/mods/alecto_mlbb.so",
-        "features": [
-          "🗺️ Map Hack (Full Vision)",
-          "🚁 Drone View",
-          "⚡ Skill No Cooldown",
-          "🤖 Auto Combo",
-          "🛡️ Anti-Detection"
-        ],
-        "compatible_games": ["MLBB"],
-        "status": "paid",
-        "price": "$19.99",
-        "key_required": true,
-        "telegram_contact": "https://t.me/darwinowner",
-        "key": "MLBB-XXXX-YYYY-ZZZZ",
-        "screenshots": [
-          "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/screenshots/mlbb1.jpg",
-          "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/screenshots/mlbb2.jpg"
-        ],
-        "requires_key": true,
-        "key_source": "telegram_bot"
-      }
-    ],
-    "categories": [
-      {
-        "name": "PUBG Mobile",
-        "icon": "🎯",
-        "mods": [1, 2, 3, 4]
-      },
-      {
-        "name": "Mobile Legends",
-        "icon": "🎮",
-        "mods": [5]
-      }
-    ]
-  },
   "maintenance": {
-    "title": "MAINTENANCE 🫤",
     "mode": false,
-    "message": "Please be patient for the next update information\nWait for updated information on the channel below.",
-    "estimated": "Estimated repair is 2 days, please be patient.",
+    "title": "MAINTENANCE MODE",
+    "message": "System is currently under maintenance. Please check our Telegram channel for updates.",
+    "estimated": "Estimated time: 2 hours",
     "contact": "https://t.me/dalwinofficial"
   },
-  "theme": {
-    "primary_color": "#2196F3",
-    "accent_color": "#03A9F4",
-    "background_color": "#1E1E1E",
-    "card_color": "#2D2D2D",
-    "text_primary": "#FFFFFF",
-    "text_secondary": "#B0B0B0",
-    "success_color": "#4CAF50",
-    "warning_color": "#FFC107",
-    "error_color": "#F44336",
-    "free_badge_color": "#2E7D32",
-    "paid_badge_color": "#B71C1C"
-  }
-}        "compatible_games": ["PUBGM", "BGMI", "CODM"],
-        "is_free": true
-      },
-      {
-        "id": 3,
-        "name": "ALECTO ESP",
-        "description": "Enhanced ESP features for competitive play",
-        "version": "v4.1.9",
-        "size": "12.3 MB",
-        "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/mods/alecto_esp.so",
-        "features": [
-          "Player ESP",
-          "Item ESP",
-          "Vehicle ESP",
-          "Distance Tracker"
-        ],
-        "compatible_games": ["PUBGM", "CODM", "BLOOD STRIKE"],
-        "is_free": false
-      },
-      {
-        "id": 4,
-        "name": "ALECTO FREE",
-        "description": "Free version with basic features",
-        "version": "v4.0.0",
-        "size": "6.5 MB",
-        "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/mods/alecto_free.so",
-        "features": [
-          "Simple Aimbot",
-          "Basic ESP",
-          "No Grass"
-        ],
-        "compatible_games": ["PUBGM", "MLBB"],
-        "is_free": true
-      },
-      {
-        "id": 5,
-        "name": "ALECTO MLBB",
-        "description": "Special mod for Mobile Legends",
-        "version": "v2.1.0",
-        "size": "10.1 MB",
-        "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/mods/alecto_mlbb.so",
-        "features": [
-          "Map Hack",
-          "Drone View",
-          "Skill No Cooldown",
-          "Auto Combo"
-        ],
-        "compatible_games": ["MLBB"],
-        "is_free": false
-      }
-    ]
-  },
-  "maintenance": {
-    "title": "MAINTENANCE 🫤",
-    "mode": false,
-    "message": "Please be patient for the next update information\nWait for updated information on the channel below.",
-    "estimated": "Estimated repair is 2 days, please be patient."
-  }
+  "mods": [
+    {
+      "id": "pro",
+      "name": "ALECTO PRO",
+      "tagline": "Professional Gaming Enhancement",
+      "description": "Complete package with all advanced features for competitive PUBG Mobile gaming. Optimized for professional players.",
+      "version": "4.2.1",
+      "size": "15.2 MB",
+      "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/mods/alecto_pro.so",
+      "features": [
+        "Advanced Aimbot with adjustable FOV",
+        "Full Wallhack with player and item ESP",
+        "No Recoil system with intensity control",
+        "Magic Bullet with auto-targeting",
+        "Anti-Ban protection system"
+      ],
+      "status": "paid",
+      "key_required": true,
+      "has_trial": true,
+      "trial_days": 3,
+      "demo_key": "PRO-ABCD-EFGH-IJKL"
+    },
+    {
+      "id": "lite",
+      "name": "ALECTO LITE",
+      "tagline": "Lightweight Performance",
+      "description": "Optimized for stable performance on all devices. Provides essential features without compromising gameplay.",
+      "version": "4.2.0",
+      "size": "8.7 MB",
+      "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/mods/alecto_lite.so",
+      "features": [
+        "Basic Aimbot with smooth tracking",
+        "Wallhack with player outlines",
+        "Anti-Ban protection",
+        "Performance optimized"
+      ],
+      "status": "free",
+      "key_required": false
+    },
+    {
+      "id": "esp",
+      "name": "ALECTO ESP",
+      "tagline": "Advanced Visual System",
+      "description": "Specialized ESP features for tactical advantage. See enemies, items, and vehicles through walls.",
+      "version": "4.1.9",
+      "size": "12.3 MB",
+      "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/mods/alecto_esp.so",
+      "features": [
+        "Player ESP with distance tracking",
+        "Item ESP for weapons and loot",
+        "Vehicle ESP detection",
+        "Custom color settings"
+      ],
+      "status": "paid",
+      "key_required": true,
+      "has_trial": false,
+      "demo_key": "ESP-ABCD-EFGH-IJKL"
+    },
+    {
+      "id": "free",
+      "name": "ALECTO FREE",
+      "tagline": "Free For Everyone",
+      "description": "Basic features available for free. Perfect for testing our mod system.",
+      "version": "4.0.0",
+      "size": "6.5 MB",
+      "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/mods/alecto_free.so",
+      "features": [
+        "Simple Aimbot",
+        "Basic ESP",
+        "No Grass"
+      ],
+      "status": "free",
+      "key_required": false
+    }
+  ]
 }
