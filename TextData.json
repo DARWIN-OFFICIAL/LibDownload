@@ -2,7 +2,7 @@
   "title": "NO PAY ZONE",
   "maintagline": "Best mod provider, always play safe, this mods is free, easy to use, cool ;)",
   "maintenance": {
-    "mode": false,
+    "mode": true,
     "title": "MAINTENANCE MODE",
     "message": "System is currently under maintenance. Please check our Telegram channel for updates.",
     "estimated": "Estimated time: 2 hours",
