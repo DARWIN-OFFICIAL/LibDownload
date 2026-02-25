@@ -48,8 +48,7 @@
       "has_trial": true,
       "trial_days": 5,
       "demo_key": "Bahlil-Ireng",
-      "price": "$12.99",
-      "contact": "https://t.me/darwinowner"
+      "price": "$12.99"
     },
     {
       "id": "paid_lifetime",
@@ -63,8 +62,6 @@
         "Fitur ewe ewe"
       ],
       "status": "paid",
-      "key_required": true,
-      "demo_key": "Bitch",
       "price": "$12.99",
       "contact": "https://t.me/darwinowner"
     }
