@@ -2,7 +2,7 @@
   "title": "NO PAY ZONE",
   "maintagline": "Best mod provider, always play safe, this mods is free, easy to use, cool ;)",
   "maintenance": {
-    "mode": true,
+    "mode": false,
     "title": "MAINTENANCE MODE",
     "message": "System is currently under maintenance. Please check our Telegram channel for updates.",
     "estimated": "Estimated time: 2 hours",
@@ -23,10 +23,8 @@
         "Skin hack for lobby and game",
         "Anti-Ban protection system"
       ],
-      "status": "trial",
+      "status": "free",
       "key_required": false,
-      "has_trial": true,
-      "trial_days": 5,
       "demo_key": "",
       "price": "Rp. 100,000",
       "contact": "https://t.me/darwinowner"
