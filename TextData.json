@@ -64,8 +64,6 @@
       ],
       "status": "paid",
       "key_required": true,
-      //"has_trial": false,
-      //"trial_days": 5,
       "demo_key": "Bitch",
       "price": "$12.99",
       "contact": "https://t.me/darwinowner"
