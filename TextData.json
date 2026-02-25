@@ -8,79 +8,190 @@
   },
   "mods": [
     {
-      "id": "pro",
-      "name": "ALECTO CHEAT",
-      "tagline": "Professional Gaming Enhancement",
-      "description": "Complete package with all advanced features for competitive PUBG Mobile gaming. Optimized for professional players.",
+      "id": "pro_free_key",
+      "name": "ALECTO PRO",
+      "tagline": "Professional Edition with Free Key",
+      "description": "Complete package with all advanced features. Includes a demo key for testing.",
       "version": "4.2.1",
       "size": "15.2 MB",
-      "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/libmono.so",
+      "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/libmono.so",
       "features": [
         "Advanced Aimbot with adjustable FOV",
         "Full Wallhack with player and item ESP",
-        "Skin hack, lobby & game",
-        "Anti-Ban protection system"
+        "Skin hack for lobby and game",
+        "Anti-Ban protection system",
+        "Magic Bullet with auto-targeting"
       ],
       "status": "free",
       "key_required": true,
-      "has_trial": true,
-      "trial_days": 4,
-      "demo_key": "NATALIUS-PIG-GAY"
+      "demo_key": "PRO-ABCD-1234-EFGH"
     },
     {
-      "id": "lite",
-      "name": "JAWA MODZZZZ",
-      "tagline": "HUHU HAHA HUHH",
-      "description": "Darwin nih, tiarap kid.",
+      "id": "pro_free_nokey",
+      "name": "ALECTO PRO LITE",
+      "tagline": "Professional Features No Key Required",
+      "description": "Professional features without key requirement. Direct download and use.",
       "version": "4.2.0",
-      "size": "8.7 MB",
+      "size": "14.8 MB",
       "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/libmono.so",
       "features": [
-        "Basic Aimbot with smooth tracking",
-        "Fitur ewean",
-        "Anti-Band Virgoun",
-        "Campuran etanol"
+        "Advanced Aimbot",
+        "Full Wallhack",
+        "Skin hack",
+        "Anti-Ban protection"
+      ],
+      "status": "free",
+      "key_required": false
+    },
+    {
+      "id": "trial_7days_key",
+      "name": "ALECTO TRIAL 7D",
+      "tagline": "7 Days Trial with Demo Key",
+      "description": "Try all premium features for 7 days. Demo key included.",
+      "version": "4.1.9",
+      "size": "15.0 MB",
+      "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/libmono.so",
+      "features": [
+        "All premium features unlocked",
+        "7 days full access",
+        "No restrictions",
+        "Auto-expire after trial"
       ],
       "status": "trial",
       "key_required": true,
       "has_trial": true,
-      "trial_days": 6,
-      "demo_key": "NATALIUS-PIG-GAY"
+      "trial_days": 7,
+      "demo_key": "TRIAL-7DAY-ABCD-1234"
     },
     {
-      "id": "esp",
-      "name": "ALECTO ESP",
-      "tagline": "Advanced Visual System",
-      "description": "Specialized ESP features for tactical advantage. See enemies, items, and vehicles through walls.",
-      "version": "4.1.9",
-      "size": "12.3 MB",
+      "id": "trial_3days_nokey",
+      "name": "ALECTO TRIAL 3D",
+      "tagline": "3 Days Automatic Trial",
+      "description": "Automatic 3 days trial. No key needed, just download and use.",
+      "version": "4.1.8",
+      "size": "15.0 MB",
       "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/libmono.so",
       "features": [
-        "Player ESP with distance tracking",
-        "Item ESP for weapons and loot",
-        "Vehicle ESP detection",
-        "Custom color settings"
+        "All features unlocked",
+        "3 days trial period",
+        "Auto-expire",
+        "No key required"
       ],
-      "status": "free",
-      "key_required": true,
+      "status": "trial",
+      "key_required": false,
       "has_trial": true,
-      "demo_key": "ESP-ABCD-EFGH-IJKL"
+      "trial_days": 3
     },
     {
-      "id": "free",
-      "name": "ALECTO FREE",
-      "tagline": "Free For Everyone",
-      "description": "Basic features available for free. Perfect for testing our mod system.",
-      "version": "4.0.0",
-      "size": "6.5 MB",
+      "id": "paid_with_key",
+      "name": "ALECTO VIP",
+      "tagline": "VIP Premium Edition",
+      "description": "Full premium access with lifetime updates. Contact owner for purchase.",
+      "version": "4.2.1",
+      "size": "15.2 MB",
       "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/libmono.so",
       "features": [
-        "Simple Aimbot",
-        "Basic ESP",
-        "No Grass"
+        "All premium features",
+        "Lifetime updates",
+        "Priority support",
+        "Early access to new features"
+      ],
+      "status": "paid",
+      "key_required": true,
+      "price": "$19.99",
+      "contact": "https://t.me/darwinowner"
+    },
+    {
+      "id": "paid_nokey",
+      "name": "ALECTO PREMIUM",
+      "tagline": "Premium Edition",
+      "description": "Premium features with key system. Purchase key from owner.",
+      "version": "4.2.0",
+      "size": "15.1 MB",
+      "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/libmono.so",
+      "features": [
+        "All premium features",
+        "Regular updates",
+        "Stable performance"
+      ],
+      "status": "paid",
+      "key_required": true,
+      "price": "$14.99"
+    },
+    {
+      "id": "free_no_features",
+      "name": "ALECTO BASIC",
+      "tagline": "Basic Free Version",
+      "description": "Basic features for casual players. No key required.",
+      "version": "4.0.0",
+      "size": "8.5 MB",
+      "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/libmono.so",
+      "features": [
+        "Basic aimbot",
+        "Simple ESP",
+        "No grass"
       ],
       "status": "free",
       "key_required": false
+    },
+    {
+      "id": "free_with_features",
+      "name": "ALECTO COMMUNITY",
+      "tagline": "Community Free Version",
+      "description": "Free version with community features. Includes demo key for extra features.",
+      "version": "4.0.5",
+      "size": "9.2 MB",
+      "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/libmono.so",
+      "features": [
+        "Community aimbot",
+        "Basic ESP",
+        "No recoil",
+        "Community key included"
+      ],
+      "status": "free",
+      "key_required": true,
+      "demo_key": "COMMUNITY-KEY-2024"
+    },
+    {
+      "id": "trial_paid_upgrade",
+      "name": "ALECTO TRIAL PLUS",
+      "tagline": "Trial with Upgrade Option",
+      "description": "5 days trial with option to upgrade to paid version.",
+      "version": "4.1.5",
+      "size": "15.0 MB",
+      "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/libmono.so",
+      "features": [
+        "All premium features",
+        "5 days trial",
+        "Upgrade anytime",
+        "Trial key included"
+      ],
+      "status": "trial",
+      "key_required": true,
+      "has_trial": true,
+      "trial_days": 5,
+      "demo_key": "TRIAL5-UPGRADE-ABCD",
+      "price": "$12.99"
+    },
+    {
+      "id": "paid_lifetime",
+      "name": "ALECTO LIFETIME",
+      "tagline": "Lifetime Premium Access",
+      "description": "One-time payment for lifetime access. Contact owner for key.",
+      "version": "4.2.1",
+      "size": "15.2 MB",
+      "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/libmono.so",
+      "features": [
+        "All premium features",
+        "Lifetime updates",
+        "Private support group",
+        "Beta access"
+      ],
+      "status": "paid",
+      "key_required": true,
+      "price": "$49.99",
+      "contact": "https://t.me/darwinowner",
+      "demo_key": "LIFETIME-DEMO-2024"
     }
   ]
 }
