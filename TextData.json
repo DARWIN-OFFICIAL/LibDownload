@@ -14,7 +14,7 @@
       "name": "ALECTO CHEAT",
       "tagline": "Now free for play.",
       "description": "Alecto cheat is only for fun, the mod is safe, but bear the risk if you want to use the main account.",
-      "version": "4.2.1",
+      "version": "4.2",
       "size": "6.2 MB",
       "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/libmono.so",
       "features": [
@@ -30,25 +30,23 @@
       "contact": "https://t.me/darwinowner"
     },
     {
-      "id": "pro_free_nokey",
-      "name": "DARWIN PEMULA MODZZ",
-      "tagline": "No Key Required",
-      "description": "Gk capek menyandang nama WE EN I",
-      "version": "4.2.0",
-      "size": "4.8 MB",
+      "id": "chilemod",
+      "name": "CHILE MOD",
+      "tagline": "Now free for play.",
+      "description": "Play safe, no primary account recommendation",
+      "version": "4.2",
+      "size": "6.8 MB",
       "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/libmono.so",
       "features": [
-        "Advanced Aimbot",
+        "Magic bullet",
         "Full Wallhack",
-        "Skin hack",
         "Anti-Ban protection"
       ],
-      "status": "trial",
+      "status": "free",
       "key_required": true,
-      "has_trial": true,
-      "trial_days": 5,
-      "demo_key": "Bahlil-Ireng",
-      "price": "$12.99"
+      "has_trial": false,
+      "trial_days": 0,
+      "demo_key": "CHILE-CRACK-999"
     },
     {
       "id": "paid_lifetime",
