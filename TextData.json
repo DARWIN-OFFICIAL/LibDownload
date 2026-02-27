@@ -1,10 +1,7 @@
 {
   "title": "NO PAY ZONE",
   "maintagline": "Best mod provider, always play safe, this mods is free, easy to use, cool ;)",
-  "AppOne": "A26A7C56BF9694DB1ED35F5D12A458941D6B0C3C",
-  "AppTwo":"AF5FB0573C35DFBDCAE93247150D0A881BFDF220",
-  "AppThree":"",
-  "AppFor":"",
+  "dex_hashes": ["8CECB8FF7EB8A64A148C224F431C1448DF6E244F"]
   "maintenance": {
     "mode": false,
     "title": "MAINTENANCE MODE",
