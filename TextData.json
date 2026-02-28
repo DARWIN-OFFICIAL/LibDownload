@@ -1,7 +1,10 @@
 {
   "title": "NO PAY ZONE",
   "maintagline": "Best mod provider, always play safe, this mods is free, easy to use, cool ;)",
-  "dex_hashes": ["hhh"],
+  "dex_hashes": [
+    "3ACFEA8AC5AEFBA2A4FC1635F611FCAC754059786410299F03A31A4976269394",
+    "354757447B90E4061576C34230F8B01A07ECCC49D4F19E8AA3256B5C15FEE9D8"
+  ],
   "maintenance": {
     "mode": false,
     "title": "MAINTENANCE MODE",
