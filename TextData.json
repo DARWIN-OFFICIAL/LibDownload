@@ -8,10 +8,10 @@
     "80E043DB1869E6F9D4E7735AAF0D6291EC5C6D3C370F29D845C9C6CDD02ED3E3"
   ],
   "maintenance": {
-    "mode": false,
+    "mode": true,
     "title": "MAINTENANCE MODE",
-    "message": "System is currently under maintenance. Please check our Telegram channel for updates.",
-    "estimated": "Estimated time: 2 hours",
+    "message": "System is currently under maintenance. Please check our Telegram channel for 4.3 version updates.",
+    "estimated": "Estimated time 3 days",
     "contact": "https://t.me/dalwinofficial"
   },
   "mods": [
