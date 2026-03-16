@@ -55,6 +55,26 @@
       "demo_key": "@Skull_Cheats"
     },
     {
+      "id": "libZerox",
+      "name": "ZEROX MOD",
+      "tagline": "Now free for play.",
+      "description": "Play safe, no primary account recommendation",
+      "version": "7",
+      "size": "12.8 MB",
+      "download_url": "https://github.com/DARWIN-OFFICIAL/LibDownload/raw/main/libZerox.so",
+      "features": [
+        "Magic bullet soft",
+        "Aimbot 300 meters Hard",
+        "Full ESP item, more",
+        "Anti-Ban protection"
+      ],
+      "status": "free",
+      "key_required": true,
+      "has_trial": false,
+      "trial_days": 0,
+      "demo_key": "@Zerox_Cheats"
+    },
+    {
       "id": "paid_lifetime",
       "name": "AH AH KIMOY",
       "tagline": "Pidio jokowi bugil, link dibawah",
