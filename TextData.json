@@ -7,7 +7,7 @@
     "ADB67D6C14230814FBAECA1777359CDAC28AFC8671ACF04B5CDA5FD04CA764C5"
   ],
   "maintenance": {
-    "mode": false,
+    "mode": true,
     "title": "MAINTENANCE MODE",
     "message": "System is currently under maintenance. Please check our Telegram channel for 4.3 version updates.",
     "estimated": "Estimated time 3 days",
