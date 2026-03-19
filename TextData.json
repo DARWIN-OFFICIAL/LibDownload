@@ -8,10 +8,10 @@
   ],
   "maintenance": {
     "mode": false,
-    "title": "MAINTENANCE MODE",
+    "title": "MAINTENANCE",
     "message": "System is currently under maintenance. Please check our Telegram channel for 4.3 version updates.",
     "estimated": "Estimated time 3 days",
-    "contact": "https://t.me/dalwinofficial"
+    "contact": "https://t.me/darwinowner"
   },
   "mods": [
     {
